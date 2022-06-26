@@ -10,6 +10,10 @@ ogsmolyanov.github.io
 
 ## Воспоминания
 
+## Почитать еще информации на других сайтах
+
+  - [mathnet.ru](http://www.mathnet.ru/php/person.phtml?option_lang=rus&personid=8749)
+
 ## Содержание
   
   - [Книги](books)
